@@ -1,0 +1,37 @@
+# This is a tentative curriculum subject to the desires of students and input of devs
+
+Week 1 - Introduction
+
+Course overview
+What is Bitcoin?
+  - Potential
+  - Bitcoin Cash ecosystem: Roles, Projects, Participants
+Software Development Concepts
+Development Tools Pt. 1 - VirtualBox, Ubuntu, Docker
+Development Tools Pt. 2 - IDEs, Virtual Environments, Libraries (overview)
+
+Week 2 - Bitcoin, in-depth
+
+The Bitcoin network
+Anatomy of a Bitcoin transaction
+Cryptography
+SLP (overview)
+Opcodes, scripting, CashScript (overview)
+
+Week 3 - Basic Projects
+
+Build a Bitcoin Cash wallet
+Set up an node
+Learn to use the rest.bitcoin.com API
+
+Week 4 - 
+
+Week 5 -
+
+Week 6 -
+
+Week 7 -
+
+Week 8 -
+
+
