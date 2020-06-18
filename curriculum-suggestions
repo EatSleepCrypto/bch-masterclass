@@ -1,37 +1,86 @@
-# This is a tentative curriculum subject to the desires of students and input of devs
+This document exists to elicit feedback from students and teachers alike.
 
-Week 1 - Introduction
+In deciding what should be included in the course, we are considering the applications for which students would like to build minimum viable products (MVPs) during the course.
 
-Course overview
-What is Bitcoin?
-  - Potential
-  - Bitcoin Cash ecosystem: Roles, Projects, Participants
-Software Development Concepts
-Development Tools Pt. 1 - VirtualBox, Ubuntu, Docker
-Development Tools Pt. 2 - IDEs, Virtual Environments, Libraries (overview)
+Applications require components including concepts, libraries, protocols, OP codes, etc.
+Applications, components and categories are not limited to those listed, feel free to add your own, just stick to the overall template of Application & Components.
+We will include as many of these components in the course as possible, with preference going to those components which overlap between applications.
+Additionally, general requirements which may be covered in or before the course (via Codecademy, for example) include:
 
-Week 2 - Bitcoin, in-depth
+-	Python
+-	Javascript
+-	Command line
+-	FullStack.Cash (in place of self hosting)
+-	VS Code or another IDE
+-	Github
+-	Virtualbox/VMWare
+- Virtual Environments
+-	Docker
 
-The Bitcoin network
-Anatomy of a Bitcoin transaction
-Cryptography
-SLP (overview)
-Opcodes, scripting, CashScript (overview)
+The following applications were suggested by students who don't know exactly what is required to create each application. It is up to developers to comment here, adding the components which need to be taught in order for a student to develop each application.
 
-Week 3 - Basic Projects
+The syntax for each suggestion is:
 
-Build a Bitcoin Cash wallet
-Set up an node
-Learn to use the rest.bitcoin.com API
+Application to be created: A brief, descriptive name for the web/mobile application
+Component student would need to learn: List of components including concepts, libraries, protocols, OP codes, etc.
 
-Week 4 - 
+Application: Waze.cash - A copycat app of Waze in which users can be tipped in BCH for flagging traffic accidents, police, road blockages, etc.
+Components: 
+- Working with API's (Skill)
+- Transaction construction (Topic)
+- OP_RETURN (OP code)
+- Non-custodial wallets (Protocol, Library)
+- Wallets (Concept, Protocol)
 
-Week 5 -
+Application: A physical Bitcoin Cash faucet, created as a billboard, poster, painting, etc.
+Components:
+- QR code generation (Library)
+- Public & private keys (Concept)
+- Shell scripting/cron (Skill)
 
-Week 6 -
+Application: Post office - an implementation of Vin Armani's Simple Ledger Postage Protocol (SLPP)
+- SLP tokens (Topic, Protocol, Library)
+- Shell scripting/cron (Skill, Concept)
+- Transaction verification (Concept, Skill)
+- SLPP (Concept, Protocol)
+- Transaction construction (Concept, Skill)
 
-Week 7 -
+Application: File vending machine, to serve files, or IPFS file hashes upon payment
+- Shell scripting/cron (Skill,Concept)
+- Transaction verification (Concept,Protocol)
 
-Week 8 -
+Application: Upgrades to Member.cash
+- Memo.cash (Protocol, API)
 
+Application: On-chain messaging
+- OP_RETURN (OP Code)
+- Signing messages (Protocol)
+- Transaction construction (Skill)
+- Wallets (Protocol, Library)
 
+Application: Social media app which encrypts file hashes with recipient's public keys for access
+- IPFS file hashes encrypted with public keys
+- Signing messages (Skill)
+- Encrypting & Decrypting (Concept,Skill)
+- OP_RETURN (OP Code)
+- OP_CHECKDATASIG ? (OP Code)
+
+Application: Pay-to-many SLP transactions
+- Transaction construction (Concept,Skill)
+- BIP70 ? (Protocol)
+- SLP (Protocol)
+
+Application: Tip bots
+- Security vs. Ease of use (Concept)
+- Shell scripting/cron (Skill)
+- Transaction construction (Concept, Skill)
+- Non-custodial wallets (Concept,Protocol)
+- Wallets (Protocol)
+
+Application: Multi-sig wallets
+- Wallets
+- Multi-sig schemes
+
+Application: BIP70 transactions for entire supply chains
+- BIP70
+- Transaction construction
