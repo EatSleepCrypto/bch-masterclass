@@ -1,0 +1,63 @@
+Week 1 - Intro to web development & Bitcoin overview
+ - What is Bitcoin?
+   - Definitions
+   - Ecosystem overview
+	- What exists, what doesn't?
+   - Bitcoin's future potential
+ - Intro to DevOps
+   - Overview of web application development components
+   - Set up Virtualbox & Ubuntu
+   - Set up a pruned Bitcoin node using Docker
+   - Set up development environment
+	- Virtual environments, package managers, libraries
+
+Week 2 - Programming with Bitcoin
+ - Foundational libraries (bitcash, bch.js)
+   - Build a wallet
+	- APIs (rest.bitcoin.com)
+	- Public and private keys
+	- Address generation
+ - Foundational programming skills
+   - Finding and understanding libraries
+   - Reading documentation
+   - Understanding classes in object-oriented programming
+
+Week 3 - Bitcoin applications with servers
+ - Build a tipbot
+   - Set up a server
+     - Cron scripting
+   - Make API calls to a node (fullstack.cash)
+   - Transaction construction
+   - Intro to security
+
+Week 4 - SLP
+
+ Need suggestions
+
+
+
+Week 5 - Payment processing (bitcoin-python-class and/or Simplecash)
+ - Build a website with embedded payment processing
+   - Basic HTML/CSS for web apps
+   - QR code generation
+   - Flask
+
+Week 6 - Intro to collaborative transactions
+ - Intro to BIP70
+ - OP_CHECKDATASIG
+ - Intro to jeton-lib
+
+Week 7 - OP_RETURN and using data on-chain
+ - Working with the Memo.cash API
+ - Working with Member.cash
+ - Intro to the IPFS
+ - Best practices using on-chain data
+
+Week 8 - UX, UI, & Application Security
+ - Security vs. efficiency spectrum
+ - UX principles
+ - UI principles
+
+(Week 9) - SLP Postage protocol
+
+(Week 10) - Signal, Watch, and Pay protocol (SWaP)
