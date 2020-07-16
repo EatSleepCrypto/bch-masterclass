@@ -13,10 +13,11 @@ Week 1 - Intro to web development & Bitcoin overview
 
 Week 2 - Programming with Bitcoin
  - Foundational libraries (bitcash, bch.js)
-   - Build a wallet
+   - Build a basic wallet
 	- APIs (rest.bitcoin.com)
 	- Public and private keys
 	- Address generation
+	- Cashaddr
  - Foundational programming skills
    - Finding and understanding libraries
    - Reading documentation
@@ -30,27 +31,28 @@ Week 3 - Bitcoin applications with servers
    - Transaction construction
    - Intro to security
 
-Week 4 - SLP
- - Mint an SLP token
- - Need suggestions on SLP token Python & JavaScript libraries
- - Suggestions on SLP example projects for learning
-
-Week 5 - Payment processing (bitcoin-python-class and/or Simplecash)
+Week 4 - Payment processing & SLP tokens (bitcoin-python-class and/or Simplecash)
  - Build a website with embedded payment processing
    - Basic HTML/CSS for web apps
    - QR code generation
    - Flask
 
-Week 6 - Intro to collaborative transactions
- - Intro to BIP70
- - OP_CHECKDATASIG
- - Intro to jeton-lib
-
-Week 7 - OP_RETURN and using data on-chain
+Week 5 - OP_RETURN and using data on-chain
  - Working with the Memo.cash API
- - Working with Member.cash
  - Intro to the IPFS
  - Best practices using on-chain data
+
+Week 6 - Integrating decentralized identity systems
+ - Member.cash
+   - Ratings, trusted network
+ - CashAccount.info
+ - (CashID)
+
+Week 7 - Intro to collaborative transactions
+ - Intro to BIP70
+ - OP_CHECKDATASIG overview
+ - (Intro to jeton-lib)
+   - On-chain betting
 
 Week 8 - UX, UI, & Application Security
  - Security vs. efficiency spectrum
