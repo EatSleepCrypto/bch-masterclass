@@ -31,10 +31,9 @@ Week 3 - Bitcoin applications with servers
    - Intro to security
 
 Week 4 - SLP
-
- Need suggestions
-
-
+ - Mint an SLP token
+ - Need suggestions on SLP token Python & JavaScript libraries
+ - 
 
 Week 5 - Payment processing (bitcoin-python-class and/or Simplecash)
  - Build a website with embedded payment processing
