@@ -56,8 +56,9 @@ Week 7 - Intro to collaborative transactions
 
 Week 8 - UX, UI, & Application Security
  - Security vs. efficiency spectrum
- - UX principles
- - UI principles
+   - Self-hosting components of the BCH stack
+   - SPV wallets, Electrum
+ - UI, UX principles
 
 (Week 9) - SLP Postage protocol
 
