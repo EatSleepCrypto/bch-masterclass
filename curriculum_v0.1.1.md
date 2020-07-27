@@ -1,4 +1,4 @@
-Week 1 - Intro to web development & Bitcoin overview
+### Week 1 - Intro to web development & Bitcoin overview
 - What is Bitcoin?
 	- Definitions
 	- Ecosystem overview
@@ -11,7 +11,7 @@ Week 1 - Intro to web development & Bitcoin overview
 	- Set up development environment
 		- Virtual environments, package managers, libraries
 
-Week 2 - Programming with Bitcoin
+### Week 2 - Programming with Bitcoin
 - Foundational libraries (bitcash, bch.js)
 	- Build a basic wallet
 		- APIs (rest.bitcoin.com)
@@ -23,7 +23,7 @@ Week 2 - Programming with Bitcoin
 	- Reading documentation
 	- Understanding classes in object-oriented programming
 
-Week 3 - Bitcoin applications with servers
+### Week 3 - Bitcoin applications with servers
 - Build a tipbot
 	- Set up a server
    	- Cron scripting
@@ -31,35 +31,35 @@ Week 3 - Bitcoin applications with servers
 	- Transaction construction
 	- Intro to security
 
-Week 4 - Payment processing & SLP tokens (bitcoin-python-class and/or Simplecash)
+### Week 4 - Payment processing & SLP tokens (bitcoin-python-class and/or Simplecash)
 - Build a website with embedded payment processing
  	- Basic HTML/CSS for web apps
 	- QR code generation
 	- Flask
 
-Week 5 - OP_RETURN and using data on-chain
+### Week 5 - OP_RETURN and using data on-chain
 - Working with the Memo.cash API
 - Intro to the IPFS
 - Best practices using on-chain data
 
-Week 6 - Integrating decentralized identity systems
+### Week 6 - Integrating decentralized identity systems
 - Member.cash
 	- Ratings, trusted network
 - CashAccount.info
 - (CashID)
 
-Week 7 - Intro to collaborative transactions
+### Week 7 - Intro to collaborative transactions
 - Intro to BIP70
 - OP_CHECKDATASIG overview
 - (Intro to jeton-lib)
  	- On-chain betting
 
-Week 8 - UX, UI, & Application Security
+### Week 8 - UX, UI, & Application Security
 - Security vs. efficiency spectrum
 - Self-hosting components of the BCH stack
  	- SPV wallets, Electrum
 - UI, UX principles
 
-(Week 9) - SLP Postage protocol
+### (Week 9) - SLP Postage protocol
 
-(Week 10) - Signal, Watch, and Pay protocol (SWaP)
+### (Week 10) - Signal, Watch, and Pay protocol (SWaP)
