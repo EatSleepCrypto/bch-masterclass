@@ -1,64 +1,64 @@
 Week 1 - Intro to web development & Bitcoin overview
- - What is Bitcoin?
-   - Definitions
-   - Ecosystem overview
-	- What exists, what doesn't?
-   - Bitcoin's future potential
- - Intro to DevOps
-   - Overview of web application development components
-   - Set up Virtualbox & Ubuntu
-   - Set up a pruned Bitcoin node using Docker
-   - Set up development environment
-	- Virtual environments, package managers, libraries
+- What is Bitcoin?
+	- Definitions
+	- Ecosystem overview
+		- What exists, what doesn't?
+		- Bitcoin's potential
+- Intro to DevOps
+	- Overview of web application development components
+	- Set up Virtualbox & Ubuntu
+	- Set up a pruned Bitcoin node using Docker
+	- Set up development environment
+		- Virtual environments, package managers, libraries
 
 Week 2 - Programming with Bitcoin
- - Foundational libraries (bitcash, bch.js)
-   - Build a basic wallet
-	- APIs (rest.bitcoin.com)
-	- Public and private keys
-	- Address generation
-	- Cashaddr
- - Foundational programming skills
-   - Finding and understanding libraries
-   - Reading documentation
-   - Understanding classes in object-oriented programming
+- Foundational libraries (bitcash, bch.js)
+	- Build a basic wallet
+		- APIs (rest.bitcoin.com)
+		- Public and private keys
+		- Address generation
+		- Cashaddr
+- Foundational programming skills
+	- Finding and understanding libraries
+	- Reading documentation
+	- Understanding classes in object-oriented programming
 
 Week 3 - Bitcoin applications with servers
- - Build a tipbot
-   - Set up a server
-     - Cron scripting
-   - Make API calls to a node (fullstack.cash)
-   - Transaction construction
-   - Intro to security
+- Build a tipbot
+	- Set up a server
+   	- Cron scripting
+	- Make API calls to a node (fullstack.cash)
+	- Transaction construction
+	- Intro to security
 
 Week 4 - Payment processing & SLP tokens (bitcoin-python-class and/or Simplecash)
- - Build a website with embedded payment processing
-   - Basic HTML/CSS for web apps
-   - QR code generation
-   - Flask
+- Build a website with embedded payment processing
+ 	- Basic HTML/CSS for web apps
+	- QR code generation
+	- Flask
 
 Week 5 - OP_RETURN and using data on-chain
- - Working with the Memo.cash API
- - Intro to the IPFS
- - Best practices using on-chain data
+- Working with the Memo.cash API
+- Intro to the IPFS
+- Best practices using on-chain data
 
 Week 6 - Integrating decentralized identity systems
- - Member.cash
-   - Ratings, trusted network
- - CashAccount.info
- - (CashID)
+- Member.cash
+	- Ratings, trusted network
+- CashAccount.info
+- (CashID)
 
 Week 7 - Intro to collaborative transactions
- - Intro to BIP70
- - OP_CHECKDATASIG overview
- - (Intro to jeton-lib)
-   - On-chain betting
+- Intro to BIP70
+- OP_CHECKDATASIG overview
+- (Intro to jeton-lib)
+ 	- On-chain betting
 
 Week 8 - UX, UI, & Application Security
- - Security vs. efficiency spectrum
-   - Self-hosting components of the BCH stack
-   - SPV wallets, Electrum
- - UI, UX principles
+- Security vs. efficiency spectrum
+- Self-hosting components of the BCH stack
+ 	- SPV wallets, Electrum
+- UI, UX principles
 
 (Week 9) - SLP Postage protocol
 
