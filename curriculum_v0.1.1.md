@@ -51,6 +51,7 @@
 ### Week 7 - Intro to collaborative transactions
 - Intro to BIP70
 - OP_CHECKDATASIG overview
+	- OP Codes
 - (Intro to jeton-lib)
  	- On-chain betting
 
